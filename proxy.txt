@@ -1,0 +1,53 @@
+socks5
+
+
+
+Telegaram Socks5 Proxies, [24.10.18 00:25]
+Host: bisansor2.tk 
+Port: 443 
+Secret: dd04676f35bd5788316d5bf508186c9bd2
+
+Telegaram Socks5 Proxies, [24.10.18 00:25]
+Host: 46.17.42.249 
+Port: 10473 
+Secret: dd71dc2b84d3020cf22146c804088fbbf7
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 172.65.12.49 
+Port: 465 
+Secret: 994dc138e01718f07f39cf78f418a477
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 172.65.27.235 
+Port: 8181 
+Secret: a92279eef6623c2020f2296c968da1cc
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 77.55.234.240 
+Port: 9999 
+Secret: ddfcd0a5db1a3b13b57c67caf1f0e8e7a1
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 209.97.166.188 
+Port: 7777 
+Secret: da35c4dfcd21b5695d2c692df9ae51fb
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 172.65.12.49 
+Port: 465 
+Secret: 994dc138e01718f07f39cf78f418a477
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: tg.rrscloud.com 
+Port: 443 
+Secret: dd47035fd917068b9b657f35d31ec4339c
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 172.65.3.242 
+Port: 587 
+Secret: 994dc138e01718f07f39cf78f418a477
+
+Telegaram Socks5 Proxies, [24.10.18 00:26]
+Host: 172.65.38.80 
+Port: 443 
+Secret: 994dc138e01718f07f39cf78f418a477
